@@ -1,0 +1,43 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: lightblue;
+  font-family: 'Oxygen', sans-serif;
+  box-sizing: border-box;
+}
+
+
+.navbar-default {
+	background-color: darkblue;
+  
+}
+
+.navbar-brand {
+  font-size: 40px;
+  color: white;
+}
+
+.container1, .container2,.container3 {
+	border: 2px solid black;
+	text-align: center; 
+}
+
+.container1{
+
+
+}
+
+.container2{
+
+}
+
+.container3{
+
+}
+
+#Chicken,#Beef,#Sushi{
+	text-align: center;
+}
+
+
+
